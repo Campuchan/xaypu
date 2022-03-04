@@ -1,10 +1,16 @@
 body{
     cursor: progress;
-    
+    height: 100%;
 }
 .purple{
     background-color: purple;
 }
 .cyan{
     background-color: cyan;
+}
+#seccion0{
+    background-image: url(https://diarioenfermero.es/wp-content/uploads/2020/12/concepto-sistema-inmune-23-2148573572.jpg);
+    height: auto;
+    background-repeat: no-repeat;
+    background-position: right; 
 }
