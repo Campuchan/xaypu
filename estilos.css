@@ -1,4 +1,5 @@
 body{
+    font-family: 'Righteous', sans-serif !important;
     cursor: progress;
     height: 100%;
 }
@@ -13,4 +14,8 @@ body{
     height: auto;
     background-repeat: no-repeat;
     background-position: right; 
+}
+.inf-lateral{
+    float: right;
+    width: 200px;
 }
